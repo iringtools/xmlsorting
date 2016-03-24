@@ -1,0 +1,1 @@
+forfiles /m Mapping.*.xml /c "cmd /c sortMapping @file output\@file"
